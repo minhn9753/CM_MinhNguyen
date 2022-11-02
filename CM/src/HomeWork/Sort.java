@@ -9,6 +9,7 @@ public class Sort {
 		intArraySorting(array);
 		for (int arr : array) {
 			System.out.println(arr);
+			System.out.println("Updated today");
 		}
 	}
 	
