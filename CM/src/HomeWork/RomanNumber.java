@@ -28,6 +28,7 @@ public class RomanNumber {
 		number = number + (map.get(s.charAt(i)));
 	}
     System.out.println(number);
+    System.out.println("updated");
 	}
 	
 	public static void main(String[] args) {
